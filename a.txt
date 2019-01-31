@@ -3,3 +3,7 @@ sample content
 changes from user2
 Changes made by user1
 
+Some changes to fix the bug
+
+Added another UI screen
+
